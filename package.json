@@ -1,0 +1,13 @@
+{
+  "name": "register-form-polymer",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@polymer/iron-flex-layout": "^3.0.1",
+    "@polymer/iron-form": "3.0.1",
+    "@polymer/paper-button": "^3.0.1",
+    "@polymer/paper-input": "3.0.1",
+    "@polymer/polymer": "3.1.0",
+    "@webcomponents/webcomponentsjs": "2.2.7"
+  }
+}
